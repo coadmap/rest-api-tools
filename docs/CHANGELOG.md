@@ -1,3 +1,10 @@
+## [1.9.2](https://github.com/coadmap/rest-api-tools/compare/v1.9.1...v1.9.2) (2026-09-22)
+
+
+### Bug Fixes
+
+* document installing the package under the [@coadmap](https://github.com/coadmap) scope ([70ea1ab](https://github.com/coadmap/rest-api-tools/commit/70ea1ab142fbce9d1877c7a72b726836d24c7d83))
+
 ## [1.9.1](https://github.com/simula-labs/rest-api-tools/compare/v1.9.0...v1.9.1) (2025-06-02)
 
 
