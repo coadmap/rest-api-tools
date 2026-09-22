@@ -1,3 +1,15 @@
+## インストール
+GitHub Packages で `@coadmap` scope として配布しています。利用側の `.npmrc` に registry を指定してからインストールしてください。
+
+```
+@coadmap:registry=https://npm.pkg.github.com
+//npm.pkg.github.com/:_authToken=${GITHUB_TOKEN}
+```
+
+```
+npm i -D @coadmap/rest-api-tools
+```
+
 ## 開発環境の作り方
 1. `npm i`
 2. `npm run build:watch`
