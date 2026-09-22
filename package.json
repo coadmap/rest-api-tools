@@ -1,5 +1,5 @@
 {
-  "name": "@simula-labs/rest-api-tools",
+  "name": "@coadmap/rest-api-tools",
   "description": "",
   "main": "dist/index.js",
   "release": {
@@ -52,15 +52,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/simula-labs/rest-api-tools.git"
+    "url": "git+https://github.com/coadmap/rest-api-tools.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/simula-labs/rest-api-tools/issues"
+    "url": "https://github.com/coadmap/rest-api-tools/issues"
   },
-  "homepage": "https://github.com/simula-labs/rest-api-tools#readme",
+  "homepage": "https://github.com/coadmap/rest-api-tools#readme",
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.1",
     "@semantic-release/git": "^10.0.1",
