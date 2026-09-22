@@ -5,7 +5,7 @@
 4. `npm run generate`
 
 ## examplesのoepenapiを最新のものにする方法
-1. [spec](https://github.com/simula-labs/prob-works_spec)ファイルをエディターで開く
+1. [spec](https://github.com/coadmap/prob-works_spec)ファイルをエディターで開く
 2. `npm run build`コマンドを実行する
 3. 2で生成された`/build`ディレクトリをコピーする
 4. `/examples/openapi`ディレクトリを書き換える

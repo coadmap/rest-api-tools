@@ -225,7 +225,7 @@ export const buildV3 = (
       let responseType = "";
       methods.push(
         `/* eslint-disable */\n` +
-          `import { BaseRequest } from "@simula-labs/rest-api-tools";\n` +
+          `import { BaseRequest } from "@coadmap/rest-api-tools";\n` +
           `import type * as Types from "../${file.map(() => "").join("../")}shared/index";\n` +
           `import { API_HOST } from "${file.map(() => "").join("../")}urls";\n`
       );

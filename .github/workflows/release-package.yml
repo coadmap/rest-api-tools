@@ -20,7 +20,7 @@ jobs:
           # cache: npm
           cache-dependency-path: '**/package-lock.json'
           registry-url: 'https://npm.pkg.github.com'
-          scope: '@simula-labs'
+          scope: '@coadmap'
 
       - run: |
           npm ci

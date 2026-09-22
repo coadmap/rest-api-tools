@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@simula-labs/rest-api-tools": "file:.."
+    "@coadmap/rest-api-tools": "file:.."
   },
   "dependencies": {
     "install": "^0.13.0",
